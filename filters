@@ -1,4 +1,7 @@
 reddit.com##a[rel="nofollow noopener sponsored"]
 reddit.com##article[style="z-index: 1;"]
 reddit.com##div.CommentsPage > article
+reddit.com##div.XPromoBottomBar.m-consolidate
+reddit.com##li.TopNav__promoButton
+reddit.com##div.XPromoPopupRplNew.m-active
 pikabu.ru##.story__donate
