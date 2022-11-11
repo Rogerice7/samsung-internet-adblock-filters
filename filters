@@ -1,7 +1,6 @@
 reddit.com##a[rel="nofollow noopener sponsored"]
 reddit.com##article[style="z-index: 1;"]
 reddit.com##div.CommentsPage > article
-reddit.com##div.XPromoBottomBar
-reddit.com##li.TopNav__promoButton
 pikabu.ru##section.carousel
 pikabu.ru##.story__donate
+pikabu.ru##article[data-ad-type="feed"]
