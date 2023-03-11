@@ -6,3 +6,6 @@ pikabu.ru##.story__donate
 pikabu.ru##article[data-ad-type="feed"]
 pikabu.ru##div.smartbanner
 pikabu.ru##div.appstore-link
+pikabu.ru##div[data-role="ext-feed"]
+pikabu.ru##article[data-ext-feed="hot"]
+pikabu.ru##button[data-open-video-feed="true"]
