@@ -10,4 +10,5 @@ pikabu.ru##div[data-role="ext-feed"]
 pikabu.ru##article[data-ext-feed="hot"]
 pikabu.ru##button[data-open-video-feed="true"]
 pikabu.ru##section.page-story__community
-pikabu.ru##div.story__author-panel
+pikabu.ru##article[data-author-name="pikabu.skidki"]
+pikabu.ru##article[data-author-name="PikabuStudy"]
